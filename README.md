@@ -10,7 +10,7 @@ Both use **classic machine learning** (Random Forest, SVM, MLP) with **advanced 
 ## 🚀 Try it Live
 
 Want to see the Streamlit version in action?  
-👉 [**Launch Streamlit App**](https://YOUR-STREAMLIT-URL.streamlit.app)
+👉 [**Launch Streamlit App**]([https://monal95-hand-written-digit-classfication-streamlit-app-vsbzaf.streamlit.app/])
 
 Click the link above to draw digits, run predictions, and see the AI in your browser!
 
