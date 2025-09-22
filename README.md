@@ -145,6 +145,8 @@ python tkinter_app.py
 
 **Harsith**
 
+**Narayanan M S**
+
 
 ## 📜 License
 
